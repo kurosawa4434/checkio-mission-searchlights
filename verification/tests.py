@@ -46,23 +46,27 @@ def make_random_tests(num):
         for _ in range(randint(1, 8)):
             lights.append((randint(0, 8), randint(1, 8), (randint(1, 2))))
 
-        polygons = set()
+        polygons = []
         all_coords = []
         while len(polygons) < 2:
             polygon = randint(0, 8), randint(0, 8), randint(1, 2), randint(3, 8)
             vertices = list(get_vertices(*polygon))
+
+            if set(vertices) & set(all_coords):
+                continue
+
             for vx, vy in vertices:
                 if -0.1 <= vx <= 0.1 or -0.1 <= vy <= 0.1:
                     break
                 if any(abs(cr - sqrt((vx - cx)**2 + (vy - cy)**2)) <= 0.1 for cx, cy, cr in lights):
                     break
             else:
-                polygons.add(polygon)
-                all_coords += chain(*vertices)
+                polygons.append(polygon)
+                all_coords += vertices
 
         random_tests.append({'input': [list(map(list, polygons)), list(map(list, lights))],
                              'answer': searchlights(polygons, lights),
-                             'explanation': max(8, ceil(max(all_coords)))
+                             'explanation': max(8, ceil(max(chain(*all_coords))))
                              })
 
     return random_tests
@@ -129,5 +133,5 @@ TESTS = {
             'explanation': 8,
         },
     ],
-    "Randoms": make_random_tests(5)
+    "Randoms": make_random_tests(10)
 }
