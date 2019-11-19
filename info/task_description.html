@@ -26,8 +26,8 @@
 
 <p><strong>NOTE:</strong></p>
 <ul>
-    <li>The regular polygon is vertical symmetry.</li>
-    <li>Don't count vertices with negative coordinates.</li>
+    <li>The Regular polygons is vertical symmetry.</li>
+    <li>Don't count vertices with negative coordinates. (e.g. (-1, 2), (2, -3), (-3, -4))</li>
     <li>No test case where the circumference is close to the vertices.</li>
 </ul>
 
@@ -36,8 +36,8 @@
         <strong>Example:</strong>
     </p>
 <!-- Do NOT change the indentation of this pre-block -->
-<pre class="brush: python">searchlight([(2, 3, 2, 3)], [(1, 2, 1)]) == 1 # regular triangle
-searchlight([(4, 5, 2, 4)], [(4, 4, 3)]) == 4 # square
+<pre class="brush: python">searchlights([(2, 3, 2, 3)], [(1, 2, 1)]) == 1 # regular triangle
+searchlights([(4, 5, 2, 4)], [(4, 4, 3)]) == 4 # square
 </pre>
 <!-- pre-block end -->
     <table>
@@ -70,6 +70,7 @@ searchlight([(4, 5, 2, 4)], [(4, 4, 3)]) == 4 # square
     <ul>
     <li>length of edge &ge; 1</li>
     <li>length of radius &ge; 1</li>
+    <li>Regular polygons doesn't have any common vertex.</li>
 </ul>
 </p>
 <ul>
