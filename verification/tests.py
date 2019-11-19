@@ -47,12 +47,14 @@ def make_random_tests(num):
             lights.append((randint(0, 8), randint(1, 8), (randint(1, 2))))
 
         polygons = []
-        all_coords = []
+        all_coords = set()
+        rd1 = lambda v: {(round(x, 1), round(y, 1)) for x, y in v}
+
         while len(polygons) < 2:
             polygon = randint(0, 8), randint(0, 8), randint(1, 2), randint(3, 8)
             vertices = list(get_vertices(*polygon))
 
-            if set(vertices) & set(all_coords):
+            if rd1(vertices) & all_coords:
                 continue
 
             for vx, vy in vertices:
@@ -62,7 +64,7 @@ def make_random_tests(num):
                     break
             else:
                 polygons.append(polygon)
-                all_coords += vertices
+                all_coords |= rd1(vertices)
 
         random_tests.append({'input': [list(map(list, polygons)), list(map(list, lights))],
                              'answer': searchlights(polygons, lights),
