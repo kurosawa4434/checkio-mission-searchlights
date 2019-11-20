@@ -12,7 +12,7 @@ from itertools import chain
 from random import randint
 
 
-def get_vertices(x, y, edge_length, v):
+def get_vertices(x, y, edge_length, v, negate=True):
     deg_d = 360 / v
     deg_total = 180 + (90 - ((180 * (v - 2) / v) / 2))
     for i in range(v):
@@ -20,7 +20,7 @@ def get_vertices(x, y, edge_length, v):
         x += cos(rad) * edge_length
         y += sin(rad) * edge_length
         deg_total += deg_d
-        if x < 0 or y < 0:
+        if not negate and (x < 0 or y < 0):
             continue
 
         yield x, y
@@ -29,7 +29,7 @@ def get_vertices(x, y, edge_length, v):
 def searchlights(polygons, lights):
     result = 0
     for x, y, edge_length, vertices in polygons:
-        for vx, vy in get_vertices(x, y, edge_length, vertices):
+        for vx, vy in get_vertices(x, y, edge_length, vertices, negate=False):
             for cx, cy, cr in lights:
                 if cr >= sqrt((vx - cx) ** 2 + (vy - cy) ** 2):
                     result += 1
@@ -53,7 +53,6 @@ def make_random_tests(num):
         while len(polygons) < 2:
             polygon = randint(0, 8), randint(0, 8), randint(1, 2), randint(3, 8)
             vertices = list(get_vertices(*polygon))
-
             if rd1(vertices) & all_coords:
                 continue
 
