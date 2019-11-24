@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="31px"
+   height="31px"
+   viewBox="0 0 31 31"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="enabled.svg">
+  <defs
+     id="defs1885">
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect1145"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1141"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1131"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1141-4"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="26.688785"
+     inkscape:cy="-10.027795"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1327"
+     inkscape:window-height="713"
+     inkscape:window-x="39"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     showguides="false" />
+  <metadata
+     id="metadata1888">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fill"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#737370;fill-opacity:1;stroke:none;stroke-width:5.02865648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect4854"
+       width="31.356358"
+       height="31"
+       x="-0.17514011"
+       y="0"
+       ry="3.3074589"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="light"
+     style="display:inline">
+    <path
+       style="fill:#82d1f5;fill-opacity:1;stroke:#82d1f5;stroke-width:0.37795275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.370537,0.65796663 c -0.143712,0.28711703 -0.431738,0.86255107 -0.712502,1.56934477 -0.280765,0.7067938 -0.552919,1.5414578 -0.76973,2.4351561 -0.216811,0.8936983 -0.37705,1.8419028 -0.465536,2.7661723 -0.08849,0.9242695 -0.104777,1.8209752 -0.023,2.8644912 0.08177,1.043515 0.261365,2.229884 0.553982,3.391174 0.292618,1.16129 0.697569,2.29431 1.139272,3.281444 0.441703,0.987134 0.919377,1.826502 1.416239,2.577301 0.496863,0.750799 1.012195,1.411906 1.654823,2.10589 0.642628,0.693983 1.411896,1.420121 2.215149,2.06378 0.803253,0.643659 1.648597,1.210236 2.386201,1.646304 0.737603,0.436067 1.371854,0.744577 1.999119,1.009676 0.627266,0.265098 1.248376,0.487156 1.696574,0.649183 0.448199,0.162027 0.724416,0.264355 0.91902,0.315638 0.194605,0.05128 0.307862,0.05182 0.409362,0.04207 0.101499,-0.0097 0.192908,-0.02986 0.238847,-0.259717 0.04594,-0.229855 0.04837,-0.668877 0.03917,-4.696487 C 31.058319,18.39178 31.037486,10.775573 31.020888,6.9223471 31.00429,3.0691215 30.99204,2.9787284 30.966649,2.8313446 30.941258,2.6839607 30.902759,2.4795193 30.80892,2.230379 30.715081,1.9812386 30.565948,1.68699 30.404856,1.4557074 30.243764,1.2244249 30.070513,1.0557114 29.886513,0.90595978 29.702513,0.75620817 29.507631,0.62534379 29.279716,0.51379842 29.051802,0.40225305 28.791089,0.31018758 28.569438,0.25756862 c -0.221652,-0.052619 -0.402701,-0.0652044 -0.584859,-0.0741421 -0.182158,-0.008938 -0.363816,-0.0141279 -1.614736,-0.016746 -1.25092,-0.002618 -3.545926,-0.002618 -4.976378,0.001283 -1.430452,0.003901 -1.971152,0.0115342 -2.319311,0.0155355 -0.348159,0.004001 -0.471893,0.004001 -0.529793,0.0344314 -0.0579,0.0304301 -0.04414,0.0910665 -0.03713,0.12199297 0.007,0.0309265 0.007,0.0309265 -0.136694,0.31804353 z"
+       id="path1129"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1131"
+       inkscape:original-d="m 18.51425,0.3708496 c -0.287026,0.57443398 -0.575052,1.149868 -0.864078,1.7263019 -0.272292,0.8371524 -0.544447,1.6718164 -0.818171,2.5092246 -0.159699,0.9499262 -0.319938,1.8981307 -0.481407,2.8486961 -0.01533,0.8978549 -0.03162,1.7945606 -0.04893,2.6933408 0.181,1.188063 0.360592,2.374432 0.539389,3.563149 0.406517,1.133603 0.811467,2.266623 1.215701,3.401435 0.479154,0.839212 0.956828,1.678579 1.433742,2.519369 0.516733,0.66062 1.032065,1.321727 1.546598,1.984091 0.770587,0.725438 1.539854,1.451576 2.308282,2.178864 0.837652,0.560246 1.683224,1.126483 2.523336,1.691224 0.634908,0.307344 1.269158,0.615855 1.902238,0.925282 0.621297,0.220767 1.242407,0.442825 1.86211,0.665738 0.27671,0.10114 0.552927,0.203468 0.827891,0.306702 0.113804,-4.73e-4 0.227061,5.7e-5 0.339092,0.0016 0.0908,-0.02076 0.182208,-0.04088 0.271812,-0.05982 0.0034,-0.440021 0.0058,-0.879043 0.0073,-1.317064 -0.01984,-7.617206 -0.04067,-15.233413 -0.0625,-22.8486186 -0.01125,-0.091394 -0.0235,-0.1817871 -0.03675,-0.2711819 -0.0375,-0.2054377 -0.076,-0.4098791 -0.115496,-0.6133079 C 30.716258,1.9806419 30.567137,1.6863876 30.41702,1.3931432 30.244751,1.2234116 30.0715,1.0546982 29.897212,0.88694873 29.703287,0.75505624 29.508404,0.62419196 29.3125,0.49431313 29.052227,0.40105008 28.791514,0.30898442 28.528684,0.2175246 28.34786,0.20388531 28.166811,0.19129985 27.984375,0.17968752 27.80245,0.17346108 27.620792,0.16827085 27.4375,0.16406252 c -2.318577,-0.001 -4.613583,-0.001 -6.921875,0 -0.552626,0.006816 -1.093326,0.0144493 -1.660156,0.0234375 -0.129474,-0.001 -0.253208,-0.001 -0.382813,0 0.01497,0.060596 0.02873,0.12123109 0.04159,0.18334958 z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="ray"
+     style="display:inline">
+    <path
+       style="opacity:1;vector-effect:none;fill:#82d1f5;fill-opacity:1;fill-rule:evenodd;stroke:#82d1f5;stroke-width:0.75590551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1116"
+       sodipodi:type="arc"
+       sodipodi:cx="34.99567"
+       sodipodi:cy="9.1409168"
+       sodipodi:rx="18.721136"
+       sodipodi:ry="18.721136"
+       sodipodi:start="1.7968279"
+       sodipodi:end="3.5828483"
+       sodipodi:open="true"
+       d="M 30.800043,27.385852 A 18.721136,18.721136 0 0 1 18.152591,17.31353 18.721136,18.721136 0 0 1 18.067717,1.1455843"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="fill:#82d1f5;stroke:#82d1f5;stroke-width:0.75590551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1"
+       d="M 11.625,11.988281 18.51425,0.3708496"
+       id="path1119"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="fill:#82d1f5;stroke:#82d1f5;stroke-width:0.75590551;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 16.311793,27.318073 14.48825,0.06778"
+       id="path1121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="visible"
+     style="display:inline">
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.13458419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1061"
+       cx="-1.0620589"
+       cy="23.107485"
+       rx="4.2902937"
+       ry="7.2064848"
+       transform="matrix(0.94441753,-0.32874844,0.28057403,0.95983239,0,0)"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.13458419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1061-0"
+       transform="matrix(0.94441753,-0.32874844,0.28057403,0.95983239,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="4.9005394"
+       sodipodi:cy="23.399096"
+       sodipodi:rx="4.2902937"
+       sodipodi:ry="7.2064848"
+       sodipodi:start="4.7277146"
+       sodipodi:end="1.5666539"
+       sodipodi:open="true"
+       d="M 4.9662882,16.193457 A 4.2902937,7.2064848 0 0 1 9.190766,23.439391 4.2902937,7.2064848 0 0 1 4.9183116,30.605518"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.13385832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.458381,15.611444 v 0 l 5.7130001,-1.680296"
+       id="path1078"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.13385832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.7109463,29.587168 0.7913396,-0.14169 5.7130001,-1.680296"
+       id="path1080"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.13458419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1061-0-4"
+       transform="matrix(0.94441753,-0.32874844,0.28057403,0.95983239,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="3.4999471"
+       sodipodi:cy="23.408583"
+       sodipodi:rx="4.2902937"
+       sodipodi:ry="7.2064848"
+       sodipodi:start="5.7303234"
+       sodipodi:end="1.4498247"
+       sodipodi:open="true"
+       d="m 7.1510949,19.624278 a 4.2902937,7.2064848 0 0 1 0.2148642,6.909019 4.2902937,7.2064848 0 0 1 -3.3482732,4.029104"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       d="M 5.052651,19.521651 A 4.2902937,7.2064848 0 0 1 5.2675152,26.43067 4.2902937,7.2064848 0 0 1 1.9192421,30.459775"
+       sodipodi:open="true"
+       sodipodi:end="1.4498247"
+       sodipodi:start="5.7303234"
+       sodipodi:ry="7.2064848"
+       sodipodi:rx="4.2902937"
+       sodipodi:cy="23.305956"
+       sodipodi:cx="1.4015032"
+       sodipodi:type="arc"
+       transform="matrix(0.94441753,-0.32874844,0.28057403,0.95983239,0,0)"
+       id="path1097"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.13458419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="polygon">
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#737370;stroke-width:1.13385832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1137"
+       cx="22.118416"
+       cy="10.21829"
+       r="1.4347106"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       style="fill:none;stroke:#737370;stroke-width:1.51181102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.646281,9.4241232 C 19.174428,8.4361721 17.702347,7.4480683 16.23004,6.4598129"
+       id="path1139"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1141"
+       inkscape:original-d="M 20.646281,9.4241232 C 19.175201,8.4350199 17.70312,7.4469162 16.23004,6.4598129"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:original-d="M 20.524747,9.3578319 C 18.272903,7.8323875 16.020059,6.3065878 13.766215,4.7804343"
+       inkscape:path-effect="#path-effect1145"
+       inkscape:connector-curvature="0"
+       id="path1143"
+       d="M 20.524747,9.3578319 C 18.272753,7.8326086 16.019909,6.3068092 13.766215,4.7804343"
+       style="fill:none;stroke:#737370;stroke-width:1.51181102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-1,0,0,1,44.295876,0.44096365)"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+    <path
+       transform="translate(-5.5600507,-3.7569734)"
+       style="fill:none;stroke:#ffffff;stroke-width:1.51181102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.458456,9.2915407 C 17.992222,7.6038436 15.525772,5.9159986 13.059108,4.2280071"
+       id="path1139-4"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1141-4"
+       inkscape:original-d="M 20.458456,9.2915407 C 17.993007,7.6026965 15.526557,5.9148517 13.059108,4.2280071"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/quarkov/checkio_mission/others/searchlights/imgs/enabled.png"
+       inkscape:export-xdpi="3681.5718"
+       inkscape:export-ydpi="3681.5718" />
+  </g>
+</svg>
